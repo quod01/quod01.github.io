@@ -11,7 +11,7 @@ Welcome to QUOD - Yet Another Minimal Theme. YAMT is a minimal Jekyll theme focu
 * hello
 {:toc}
 
-## Features 
+## Features
 - Minimal and clean design.
 - Fully modular: activate and load only what you really need.
 - Works great on mobile and smaller screens.
