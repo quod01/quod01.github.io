@@ -1,7 +1,7 @@
 # Site settings
 title: QUOD
 description: "Life and Death"
-url:  "https://quod01.github.io/Jekyll-YAMT/" # Actual base url of the website
+url:  "https://quod01.github.io/" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "QUOD"
@@ -17,9 +17,9 @@ paginate: 3
 paginate_path: "/page:num/"
 
 #SEO
-twitter:
-  username: pandasekh
-  card: summary
+#twitter:
+#  username: pandasekh
+#  card: summary
 facebook:
   app_id: # Facebook app ID for Facebook insights
   publisher: # Facebook page URL or ID of the publishing entity
@@ -27,9 +27,9 @@ facebook:
 logo: /assets/img/quodlogo.png
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+#    - https://twitter.com/PandaSekh
+#    - https://www.github.com/pandasekh
+#    - https://www.linkedin.com/in/alessio-franceschi/
 webmaster_verifications:
   google:
   bing:
