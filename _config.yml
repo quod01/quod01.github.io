@@ -24,18 +24,18 @@ facebook:
   app_id: # Facebook app ID for Facebook insights
   publisher: # Facebook page URL or ID of the publishing entity
   admins: # Facebook user ID for domain insights linked to a personal account
-logo: /assets/img/logo.jpg
+logo: /assets/img/quodlogo.jpg
 social:
   links: #List your social links here
     - https://twitter.com/PandaSekh
     - https://www.github.com/pandasekh
     - https://www.linkedin.com/in/alessio-franceschi/
 webmaster_verifications:
-  google: 
-  bing: 
-  alexa: 
-  yandex: 
-  baidu: 
+  google:
+  bing:
+  alexa:
+  yandex:
+  baidu:
 lang: en_US
 
 #Highlighter
