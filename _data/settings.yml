@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: a journey to more consciousnes
+  text: life and death - a journey to more consciousnes
 
 #Nav
 nav:
@@ -32,7 +32,7 @@ mathjax:
 #Show related posts based on categories
 related-posts:
   active: true
-  title: "You May Also Enjoy"
+  title: "You May Also Like"
 
 #Comments
 comments: false
