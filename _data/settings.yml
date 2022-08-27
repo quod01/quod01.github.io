@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: a journey
+  text: a journey to more consciousnes
 
 #Nav
 nav:
@@ -27,7 +27,7 @@ date-under-post:
 
 #Use MathJAX
 mathjax:
-  active: true
+  active: false
 
 #Show related posts based on categories
 related-posts:
@@ -35,4 +35,4 @@ related-posts:
   title: "You May Also Enjoy"
 
 #Comments
-comments: true
+comments: false
