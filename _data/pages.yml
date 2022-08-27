@@ -1,5 +1,6 @@
 pages:
   - {name: 'About', url: 'about.html'}
   # - {name: 'Contact', url: 'contact.html'}
+  - {name: 'Discography', url: 'discography.html'}
   - {name: 'Live', url: 'live.html'}
   - {name: 'Archive', url: 'archive.html'}
