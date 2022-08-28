@@ -8,5 +8,6 @@ social:
   #- {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/alessio-franceschi/'}
   - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/quodmusic/'}
   - {icon: 'facebook', type: "brand", link: 'https://www.facebook.com/quodmusic'}
+  - {icon: 'bandcamp', type: "brand", link: 'https://quod.bandcamp.com'}
   - {icon: 'envelope', type: "solid", link: 'mailto:quod@tauschfuehlung.at'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}
