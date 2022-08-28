@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /categories/
-title: Categories
+permalink: /discography/
+title: Diskography
 ---
 
-{% for category in site.categories %}
+{% for Release in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
