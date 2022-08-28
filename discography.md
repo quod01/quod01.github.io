@@ -1,9 +1,5 @@
 ---
-layout: default
+layout: categories
+permalink: /discography/
 title: Discography
 ---
-
-next live date:
-
-
-former live dates:
