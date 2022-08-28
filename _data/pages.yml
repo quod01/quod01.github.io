@@ -3,4 +3,5 @@ pages:
   # - {name: 'Contact', url: 'contact.html'}
   - {name: 'Discography', url: 'discography.html'}
   - {name: 'Live', url: 'live.html'}
+  - {name: 'Videos', url: 'videos.html'}
   - {name: 'Archive', url: 'archive.html'}
