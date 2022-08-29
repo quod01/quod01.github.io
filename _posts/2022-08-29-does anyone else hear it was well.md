@@ -2,7 +2,7 @@
 title: does anyone else hear it was well?
 layout: post
 categories: [EP, Release]
-image: /assets/img/caves-full-of-light.jpg
+image: /assets/img/does-anyone-else-hear-it-was-well.jpg
 description: "does anyone else hear it was well? EP"
 ---
 
