@@ -2,7 +2,7 @@
 title: does anyone else hear it was well?
 layout: post
 categories: [EP, Release]
-image: /assets/img/does-anyone-else-hear-it-was-well.jpg
+image: /assets/img/Quod_final300.jpg
 description: "does anyone else hear it was well? EP"
 ---
 
