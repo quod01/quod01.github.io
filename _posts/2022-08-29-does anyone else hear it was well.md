@@ -1,14 +1,16 @@
 ---
-title: does anyone else hear it was well?
+title: Does Anyone Else Hear It As Well?
 layout: post
 categories: [EP, Release]
-image: /assets/img/Does Anybody Hear it as well Graphix/01_Quod_final_schreibschrift.jpg
+image: /assets/img/Anybody_Graphics/Cover.jpg
 description: "Does Anyone Else Hear It As Well?"
 ---
- <img src="/assets/img/Does Anybody Hear it as well Graphix/01_Quod_final_schreibschrift.jpg" alt="Cover of the EP">
+
+Some words about our third EP Does Anybody Else Hear It As Well?
+
+ <img src="/assets/img/Anybody_Graphics/Cover.jpg" alt="Cover of the EP">
 
 
-The third EP of QUOD
 
 1. Spiral
 1. Less Self
