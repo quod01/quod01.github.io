@@ -4,7 +4,7 @@ title: Live
 ---
 
 ## Live Dates:
-17.9.2022 - Release Party "do you here it as well?" [Tickets](https://ntry.at/quodrelease)
+17.9.2022 - Release Party "does anyone else hear it as well?" [Tickets](https://ntry.at/quodrelease)
 
 ### Former Live Dates:
 
