@@ -1,7 +1,7 @@
 ---
 title: Arachnida
 layout: post
-categories: [EP, Release]
+categories: [EP, Release, Arachnida]
 image: /assets/img/arachnida.jpg
 description: "Arachnida EP"
 ---
@@ -11,7 +11,7 @@ such as the going down of materialistic being, the borderless continuity between
 situations and the mystic of spiders which occur dark on the one hand, but living in a fragile body on the other hand.
 
  <img src="/assets/img/arachnida.jpg" alt="Cover of Arachnida">
- 
+
 ## Tracklist
 1. Acting Beyond
 1. Embrace illusion
