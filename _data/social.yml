@@ -11,4 +11,4 @@ social:
   - {icon: 'bandcamp', type: "brand", link: 'https://quod.bandcamp.com'}
   - {icon: 'spotify', type: "brand", link: 'https://open.spotify.com/artist/6jfv1v2PtvSICIcyq7HcFG?si=LAwMts2tQo2qJUg99h9uuA'}
   - {icon: 'envelope', type: "solid", link: 'mailto:quod@tauschfuehlung.at'}
-  - {icon: 'rss', type: "solid", link: "/feed.xml"}
+  #- {icon: 'rss', type: "solid", link: "/feed.xml"}

@@ -8,6 +8,8 @@ description: "Does Anyone Else Hear It As Well?"
  <img src="/assets/img/Does Anybody Hear it as well Graphix/01_Quod_final_schreibschrift.jpg" alt="Cover of the EP">
  <img src="/assets/img/Does Anybody Hear it as well Graphix/Cover_back" alt="Backside of the EP">
 
+The third EP of QUOD
+
 1. Spiral
 1. Less Self
 1. Fragile
