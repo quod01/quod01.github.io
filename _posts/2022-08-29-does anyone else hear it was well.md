@@ -2,13 +2,13 @@
 title: Does Anyone Else Hear It As Well?
 layout: post
 categories: [EP, Release]
-image: /assets/img/Anybody_Graphics/Cover.jpg
+image: /assets/img/Anyone_Graphics/Cover.jpg
 description: "Does Anyone Else Hear It As Well?"
 ---
 
-Some words about our third EP Does Anybody Else Hear It As Well?
+Some words about our third EP Does Anyone Else Hear It As Well?
 
- <img src="/assets/img/Anybody_Graphics/Cover.jpg" alt="Cover of the EP">
+ <img src="/assets/img/Anyone_Graphics/Cover.jpg" alt="Cover of the EP">
 
 
 
