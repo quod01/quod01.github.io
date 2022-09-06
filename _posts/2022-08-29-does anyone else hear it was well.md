@@ -6,7 +6,7 @@ image: /assets/img/Does Anybody Hear it as well Graphix/01_Quod_final_schreibsch
 description: "Does Anyone Else Hear It As Well?"
 ---
  <img src="/assets/img/Does Anybody Hear it as well Graphix/01_Quod_final_schreibschrift.jpg" alt="Cover of the EP">
- <img src="/assets/img/Does Anybody Hear it as well Graphix/Cover_back" alt="Backside of the EP">
+
 
 The third EP of QUOD
 
