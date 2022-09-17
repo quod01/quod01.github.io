@@ -8,9 +8,12 @@ description: "Does Anyone Else Hear It As Well?"
 
 EP released September 16, 2022
 
-Music: Stefan Zotter except # 2 Less Self, Sebastian Achleitner & Stefan Zotter
-Vocals: Bianca Anne Braunesberger
-Artwork: Anna Baldinger
+## Music:
+Stefan Zotter except # 2 Less Self, Sebastian Achleitner & Stefan Zotter
+## Vocals:
+Bianca Anne Braunesberger
+## Artwork:
+Anna Baldinger
 
  <img src="/assets/img/Anyone_Graphics/Cover.jpg" alt="Cover of the EP">
 
