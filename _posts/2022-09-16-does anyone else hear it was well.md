@@ -6,18 +6,19 @@ image: /assets/img/Anyone_Graphics/Cover.jpg
 description: "Does Anyone Else Hear It As Well?"
 ---
 
-EP released September 16, 2022
+This EP was released September 16, 2022.
 
-## Music:
+
+### Music by
 Stefan Zotter except # 2 Less Self, Sebastian Achleitner & Stefan Zotter
-## Vocals:
+### Vocals by
 Bianca Anne Braunesberger
-## Artwork:
+### Artwork by
 Anna Baldinger
 
  <img src="/assets/img/Anyone_Graphics/Cover.jpg" alt="Cover of the EP">
 
-
+### Tracklist
 1. Spiral
 1. Less Self
 1. Fragile
