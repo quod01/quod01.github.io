@@ -9,19 +9,19 @@ description: "Relish The Signs"
 This Single was released October 04, 2024.
 
 
-### Music by
+#### Music by
 Stefan Zotter
-### Vocals by
+#### Vocals by
 Bianca Anne Braunesberger
-### Artwork by
+#### Artwork by
 Bianca Anne Braunesberger
-### Concept, Costume, Cut by
+#### Concept, Costume, Cut by
 Bianca Anne Braunesberger
-### Performance by
+#### Performance by
 Kasija Vrbanac Strelkin & Ivan Strelkin
-###Camera
+#### Camera
 Christoph Braunesberger
-###Video Edit
+#### Video Edit
 Stefan Zotter
 
 ## watch on Youtube
