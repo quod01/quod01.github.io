@@ -10,11 +10,17 @@ This Single was released October 04, 2024.
 
 
 Music: Stefan Zotter
+
 Vocals: Bianca Anne Braunesberger
+
 Artwork: Bianca Anne Braunesberger
+
 Concept, Costume, Cut: Bianca Anne Braunesberger
+
 Performance: Kasija Vrbanac Strelkin & Ivan Strelkin
+
 Camera: Christoph Braunesberger
+
 Video Edit: Stefan Zotter
 
 ## watch on Youtube
