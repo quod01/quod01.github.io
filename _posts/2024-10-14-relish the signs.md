@@ -2,7 +2,7 @@
 title: Relish The Signs
 layout: post
 categories: [Single, Release, Video, Relish The Signs]
-image: /assets/img/relish-the-signs.jpg
+image: /assets/img/Relish/relish-the-signs.jpg
 description: "Relish The Signs"
 ---
 
@@ -16,7 +16,7 @@ Bianca Anne Braunesberger
 ### Artwork by
 Bianca Anne Braunesberger
 
- <img src="/assets/img/relish-the-signs.jpg alt="Cover of the Single">
+ <img src="/assets/img/Relish/relish-the-signs.jpg alt="Cover of the Single">
 
 ## watch on Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s-EQ5R9Ozo4?si=Z25J9Oyb42VXP6L-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
