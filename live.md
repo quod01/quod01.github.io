@@ -7,7 +7,7 @@ title: Live
 
 
 ### Former Live Dates:
-21.09.2024 - @ Wild im West, Vienna
+21.09.2024 - @ Wild im West, Vienna 
 02.08.2024 - @ wild im West, Vienna
 27.07.2024 - @ Performing Picnic PARK Festival, Karlovac
 07.07.2024 - @ Kultursommer, Vienna
