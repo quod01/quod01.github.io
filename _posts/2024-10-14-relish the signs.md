@@ -2,7 +2,7 @@
 title: Relish The Signs
 layout: post
 categories: [Single, Release, Video, Relish The Signs]
-image: /assets/img/Anyone_Graphics/Cover.jpg
+image: /assets/img/relish-the-signs.jpg
 description: "Relish The Signs"
 ---
 
