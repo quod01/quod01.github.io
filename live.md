@@ -7,11 +7,11 @@ title: Live
 
 
 ### Former Live Dates:
-21.09.2024 - @ Wild im West, Vienna 
-02.08.2024 - @ wild im West, Vienna
-27.07.2024 - @ Performing Picnic PARK Festival, Karlovac
-07.07.2024 - @ Kultursommer, Vienna
-17.09.2022 - Release Party "does anyone else hear it as well?"
+21.09.2024 - @ Wild im West, Vienna  
+02.08.2024 - @ wild im West, Vienna  
+27.07.2024 - @ Performing Picnic PARK Festival, Karlovac  
+07.07.2024 - @ Kultursommer, Vienna  
+17.09.2022 - Release Party "does anyone else hear it as well?"  
 22.07.2022 - @ Kultursommer, Vienna  
 10.09.2021 - @ Holy Hydra Festival, Linz  
 30.06.2021 - with Princess Angine @ Kramladen, Vienna  
